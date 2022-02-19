@@ -9,6 +9,7 @@ namespace PetsAdoption.Domain.Entities
 {
     internal class Pet
     {
+
         public string Name { get; set; }
         public PetTypeEnum Type { get; set; }
         public int Year { get; set; }
@@ -17,6 +18,12 @@ namespace PetsAdoption.Domain.Entities
         public PetSizeEnum Size { get; set; }
         public string Breed { get; set; }
         public Institute Institute { get; set; }
+
+
+        private void ValidateDomain(string name,PetTypeEnum type, int year, int months, PetSexEnum sex, PetSexEnum size, string breed, Institute institute)
+        {
+            
+        }
 
     }
 }
