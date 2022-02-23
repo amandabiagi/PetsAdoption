@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amanda.biagi\\OneDrive - Adventistas\\Área de Trabalho\\CSharp\\ProjetoPets\\PetsAdoption\\PetsAdoption.Domain\\PetsAdoption.Domain.csproj": {}
+    "C:\\Users\\amanda.biagi\\OneDrive - Adventistas\\Documentos\\Estudo\\PetsAdoption\\API\\PetsAdoption\\PetsAdoption.Domain\\PetsAdoption.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amanda.biagi\\OneDrive - Adventistas\\Área de Trabalho\\CSharp\\ProjetoPets\\PetsAdoption\\PetsAdoption.Domain\\PetsAdoption.Domain.csproj": {
+    "C:\\Users\\amanda.biagi\\OneDrive - Adventistas\\Documentos\\Estudo\\PetsAdoption\\API\\PetsAdoption\\PetsAdoption.Domain\\PetsAdoption.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amanda.biagi\\OneDrive - Adventistas\\Área de Trabalho\\CSharp\\ProjetoPets\\PetsAdoption\\PetsAdoption.Domain\\PetsAdoption.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\amanda.biagi\\OneDrive - Adventistas\\Documentos\\Estudo\\PetsAdoption\\API\\PetsAdoption\\PetsAdoption.Domain\\PetsAdoption.Domain.csproj",
         "projectName": "PetsAdoption.Domain",
-        "projectPath": "C:\\Users\\amanda.biagi\\OneDrive - Adventistas\\Área de Trabalho\\CSharp\\ProjetoPets\\PetsAdoption\\PetsAdoption.Domain\\PetsAdoption.Domain.csproj",
+        "projectPath": "C:\\Users\\amanda.biagi\\OneDrive - Adventistas\\Documentos\\Estudo\\PetsAdoption\\API\\PetsAdoption\\PetsAdoption.Domain\\PetsAdoption.Domain.csproj",
         "packagesPath": "C:\\Users\\amanda.biagi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amanda.biagi\\OneDrive - Adventistas\\Área de Trabalho\\CSharp\\ProjetoPets\\PetsAdoption\\PetsAdoption.Domain\\obj\\",
+        "outputPath": "C:\\Users\\amanda.biagi\\OneDrive - Adventistas\\Documentos\\Estudo\\PetsAdoption\\API\\PetsAdoption\\PetsAdoption.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\amanda.biagi\\AppData\\Roaming\\NuGet\\NuGet.Config",
